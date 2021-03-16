@@ -7,3 +7,4 @@ Starting from a lab project task (create a method to encode/decode a bitstream u
 2. Pandas
 3. Librosa for audio manipulation and feature extraction
 4. XGBoost for classification
+5. object_cache for simple data caching
